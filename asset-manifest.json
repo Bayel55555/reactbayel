@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.397125bf.css",
+    "main.js": "/static/js/main.174cc342.js",
+    "static/js/787.f8c457fa.chunk.js": "/static/js/787.f8c457fa.chunk.js",
+    "static/media/bg.png": "/static/media/bg.03fe2a08f4ebfc4f63c6.png",
+    "static/media/creslo.png": "/static/media/creslo.7174cceb5013bb2e8d9b.png",
+    "index.html": "/index.html",
+    "main.397125bf.css.map": "/static/css/main.397125bf.css.map",
+    "main.174cc342.js.map": "/static/js/main.174cc342.js.map",
+    "787.f8c457fa.chunk.js.map": "/static/js/787.f8c457fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397125bf.css",
+    "static/js/main.174cc342.js"
+  ]
+}
